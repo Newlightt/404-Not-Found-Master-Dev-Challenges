@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{404-not-found-master-dev-challenges.pages.dev/}">
+    <a href="https://404-not-found-master-dev-challenges.pages.dev/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{devchallenges.io/solutions/SZXgCA13CwHO2FeSPH7D}">
+    <a href="https://devchallenges.io/solutions/SZXgCA13CwHO2FeSPH7D">
       Solution
     </a>
     <span> | </span>
