@@ -42,4 +42,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@Newlightt](https://{github.com/Newlightt})
+- GitHub [@Newlightt](https://github.com/Newlightt)
