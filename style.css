@@ -64,12 +64,11 @@ nav {
 }
 
 footer {
-  width: min(20rem, 87%);
-  margin-inline: auto;
   padding: 1.5rem;
 }
 
 footer p {
+  text-align: center;
   white-space: nowrap;
   font-size: 0.9rem;
   color: #BDBDBD;
